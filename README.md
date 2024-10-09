@@ -3,7 +3,6 @@ This repository contains a collection of mini Python projects. Each project has 
 
 ## Projects
 
-- [Tic-Tac-Toe](./Tic-Tac-Toe/README.md): A classic 2-player game.
 - [Rent Expense Calculator](./Rent-Expense-Calculator/README.md): A simple tool to calculate rent expenses.
 - [Rock Paper Scissors](./Rock-Paper-Scissors/README.md): The famous hand game simulation.
 
