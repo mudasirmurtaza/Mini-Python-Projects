@@ -40,3 +40,9 @@ Computer Won !!!
 
 - Python 3.x
 - No external libraries are required for this project.
+
+## Contributing
+
+Contributions are welcome! If you have any improvements or additional features, feel free to submit a pull request.
+
+
