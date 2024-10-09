@@ -3,7 +3,7 @@ This repository contains a collection of mini Python projects. Each project has 
 
 ## Projects
 
-- [Rent Expense Calculator](./Rent-Expense-Calculator/README.md): A simple tool to calculate rent expenses.
+- [Roommate Expense Calculator](./Rent-Expense-Calculator/README.md): A simple tool to calculate rent expenses.
 - [Rock Paper Scissors](./Rock-Paper-Scissors/README.md): The famous hand game simulation.
 
 ## How to Run the Projects
