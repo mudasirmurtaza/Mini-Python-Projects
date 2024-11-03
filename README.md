@@ -3,9 +3,10 @@ This repository contains a collection of mini Python projects. Each project has 
 
 ## Projects
 
-- [Roommate Expense Calculator](./Rent-Expense-Calculator/README.md): A simple tool to calculate rent expenses.
-- [Rock Paper Scissors](./Rock-Paper-Scissors/README.md): The famous hand game simulation.
-
+- [Roommate Expense Calculator](https://github.com/mudasirmurtaza/Mini-Python-Projects/tree/main/Roommate-Expense-Calculator): A simple tool to calculate rent expenses.
+- [Rock Paper Scissors](https://github.com/mudasirmurtaza/Mini-Python-Projects/tree/main/Rock-Paper-Scissors): The famous hand game simulation.
+- [Tic Tac Toe](https://github.com/mudasirmurtaza/Mini-Python-Projects/tree/main/Tic-Tac-Toe): Simple GUI game.
+- 
 ## How to Run the Projects
 
 Navigate to the folder of the project you're interested in, and refer to its individual `README.md` for setup instructions.
