@@ -6,7 +6,8 @@ This repository contains a collection of mini Python projects. Each project has 
 - [Roommate Expense Calculator](https://github.com/mudasirmurtaza/Mini-Python-Projects/tree/main/Roommate-Expense-Calculator): A simple tool to calculate rent expenses.
 - [Rock Paper Scissors](https://github.com/mudasirmurtaza/Mini-Python-Projects/tree/main/Rock-Paper-Scissors): The famous hand game simulation.
 - [Tic Tac Toe](https://github.com/mudasirmurtaza/Mini-Python-Projects/tree/main/Tic-Tac-Toe): Simple GUI game.
-- 
+- [Digital Clock](https://github.com/mudasirmurtaza/Mini-Python-Projects/tree/main/Digital-Clock): A simple digital clock.
+  
 ## How to Run the Projects
 
 Navigate to the folder of the project you're interested in, and refer to its individual `README.md` for setup instructions.
