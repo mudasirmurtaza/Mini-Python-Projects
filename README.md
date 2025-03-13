@@ -7,7 +7,7 @@ This repository contains a collection of mini Python projects. Each project has 
 - [Rock Paper Scissors](https://github.com/mudasirmurtaza/Mini-Python-Projects/tree/main/Rock-Paper-Scissors): The famous hand game simulation.
 - [Tic Tac Toe](https://github.com/mudasirmurtaza/Mini-Python-Projects/tree/main/Tic-Tac-Toe): Simple GUI game.
 - [Digital Clock](https://github.com/mudasirmurtaza/Mini-Python-Projects/tree/main/Digital-Clock): A simple digital clock.
-- [Digital Clock](https://github.com/mudasirmurtaza/Mini-Python-Projects/tree/main/Text-Editor): A simple text editor.
+- [Text Editor](https://github.com/mudasirmurtaza/Mini-Python-Projects/tree/main/Text-Editor): A simple text editor.
 
   
   
