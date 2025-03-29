@@ -8,7 +8,7 @@ This repository contains a collection of mini Python projects. Each project has 
 - [Tic Tac Toe](https://github.com/mudasirmurtaza/Mini-Python-Projects/tree/main/Tic-Tac-Toe): Simple GUI game.
 - [Digital Clock](https://github.com/mudasirmurtaza/Mini-Python-Projects/tree/main/Digital-Clock): A simple digital clock.
 - [Text Editor](https://github.com/mudasirmurtaza/Mini-Python-Projects/tree/main/Text-Editor): A simple text editor.
-- [User Sign-Up Validation](User Sign-Up Validation ): A simple Python validation system for user sign-up, ensuring names and email addresses follow standard formats.
+- [User Sign-Up Validation](https://github.com/mudasirmurtaza/Mini-Python-Projects/tree/main/User%20Sign-Up%20Validation%20): A simple Python validation system for user sign-up, ensuring names and email addresses follow standard formats.
 
 
   
