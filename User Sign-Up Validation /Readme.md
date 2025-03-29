@@ -43,7 +43,7 @@ If an **email** contains `@` and ends with a **valid domain**.
    ```
 4. The script will return **True** for valid inputs and **False** for invalid ones.  
 
-## 📜 Code Highlights  
+## Code Highlights  
 
 - **`validate_name(name)`**:  
   - Checks if the name is a **string**.  
@@ -53,7 +53,7 @@ If an **email** contains `@` and ends with a **valid domain**.
   - Checks for the presence of **"@"**.  
   - Ensures the email ends with a **valid top-level domain**.  
 
-## 🤝 Contributing  
+## Contributing  
 
 Feel free to contribute by adding more validation features or improving the code!  
 
